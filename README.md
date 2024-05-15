@@ -1,5 +1,5 @@
 # Text Label Extraction with Generative AI
-This repository contains a notebook exploring the extraction of labels from text using a generative AI model. The methodology presented here offers a significant advantage in efficiently training classification models, particularly Convolutional Neural Networks (CNNs). By utilizing generative AI, the computational costs for inference on new data are notably lower compared to traditional methods like Large Language Models (LLMs), thus enhancing scalability for processing large text datasets.
+This repository contains a notebook exploring the extraction of labels from text using a generative AI model. The methodology presented here offers a high potential to provide labeled datasets efficiently. With labeled data, it becomes possible to train other classification models with a significantly lower computational cost while performing the same task. It also provides a method to visualize significant statistics over text data.
 
 # Features
 * Efficient Label Extraction: Utilizing generative AI models for label extraction.
